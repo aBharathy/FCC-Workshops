@@ -1,6 +1,6 @@
 
 
-### Work shop on FCC initial projects - CAS Faculites
+### Work shop on FCC Basic Front End Development projects - CAS Faculties
 
 | Date    | Topics covered        | Description |
 | ----------  |:---------------:| ----------- | 
